@@ -1,0 +1,14 @@
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\CurrencyRates.dll.config
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\CurrencyRates.dll
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\CurrencyRates.pdb
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\Newtonsoft.Json.dll
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\System.Net.Http.Formatting.dll
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\System.Web.Http.dll
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\System.Web.Http.WebHost.dll
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\Newtonsoft.Json.xml
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\System.Net.Http.Formatting.xml
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\System.Web.Http.xml
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\bin\System.Web.Http.WebHost.xml
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.dll
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.pdb
+c:\users\saleemm\documents\visual studio 2013\Projects\CurrencyRates\CurrencyRates\obj\Debug\CurrencyRates.csprojResolveAssemblyReference.cache
